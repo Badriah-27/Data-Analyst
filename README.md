@@ -1,5 +1,6 @@
-**Video Game Sales Analysis** 
-        Proyek ini bertujuan untuk menganalisis data penjualan video game dari berbagai wilayah di dunia untuk memahami tren pasar dan faktor-faktor yang memengaruhi kesuksesan suatu game. Analisis dilakukan menggunakan teknik Exploratory Data Analysis (EDA) dan visualisasi data untuk mengidentifikasi pola berdasarkan genre, platform, dan publisher.
+**Video Game Sales Analysis**
+
+Proyek ini bertujuan untuk menganalisis data penjualan video game dari berbagai wilayah di dunia untuk memahami tren pasar dan faktor-faktor yang memengaruhi kesuksesan suatu game. Analisis dilakukan menggunakan teknik Exploratory Data Analysis (EDA) dan visualisasi data untuk mengidentifikasi pola berdasarkan genre, platform, dan publisher.
 
 **Tujuan:** 
 1. Mengidentifikasi genre game paling populer berdasarkan total penjualan global.
