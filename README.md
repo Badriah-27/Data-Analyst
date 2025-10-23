@@ -13,6 +13,17 @@ Proyek ini bertujuan untuk menganalisis data penjualan video game dari berbagai 
 2. BigQuery
 3. PowerBI
 
+**Insight** 
+1. Critic score mempengaruhi User Score, User Score mempengaruhi jumlah
+   penjualan
+2. Tren penggunaan platform di semua genre yang menunjukkan peningkatan
+   signifikan adalah platform PS4
+3. Publisher yang memiliki penjualan yang paling tinggi di daerah penjualan
+   Jepang pada game genre Action adalah Nintendo
+4. Developer game Omega Force mempunyai kontribusi yang cukup besar pada
+   penjualan di game dengan genre Action maupun di semua genre
+  
+
 
 
 
