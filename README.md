@@ -13,7 +13,7 @@ Proyek ini bertujuan untuk menganalisis data penjualan video game dari berbagai 
 2. BigQuery
 3. PowerBI
 
-**Insight** 
+**Insight:** 
 1. Critic score mempengaruhi User Score, User Score mempengaruhi jumlah
    penjualan
 2. Tren penggunaan platform di semua genre yang menunjukkan peningkatan
